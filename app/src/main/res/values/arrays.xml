@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Adufe</item>
+        <item>Bateria</item>
+        <item>Chocalho</item>
+        <item>Djembê</item>
+        <item>Escaleta</item>
+        <item>Flauta</item>
+        <item>Gaita de foles</item>
+        <item>Harpa</item>
+        <item>I Não possui </item>
+        <item>J Não possui</item>
+        <item>Kantele</item>
+        <item>Lira</item>
+        <item>Matraca</item>
+        <item>N Não possui</item>
+        <item>Órgão</item>
+        <item>Piano</item>
+        <item>Quena</item>
+        <item>Reco-reco</item>
+        <item>Saxofone</item>
+        <item>Trombone</item>
+        <item>Ukulele</item>
+        <item>Violino</item>
+        <item>W Não possui</item>
+        <item>Xilofone</item>
+        <item>Y Não possui</item>
+        <item>Zabumba</item>
+
+    </string-array>
+</resources>
+
+
+
